@@ -6,8 +6,8 @@ const RESOURCES = {
   "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "d4f8ef50058224802a3021c9fb1ef9d6",
-"/": "d4f8ef50058224802a3021c9fb1ef9d6",
+"index.html": "bba760d2df6da0d27217ceb748cea946",
+"/": "bba760d2df6da0d27217ceb748cea946",
 "manifest.json": "814e435d0e6f79d822b1aa775cabc9a2",
 "version.json": "8558f688ed394fe68338b30e6bd1e018",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -21,7 +21,7 @@ const RESOURCES = {
 "assets/images/background/android_screen_background.jpg": "6c4e2e050a9d426d334efbcb7d677a41",
 "assets/images/background/flutter_screen_background.jpg": "e07300f386d545ac0d5a1cee52720971",
 "assets/images/background/spring_screen_background.jpg": "c41e564af0a29607f6cf3beed8ccab2f",
-"main.dart.js": "b4bdbe186af668d67da18acb640779ee"
+"main.dart.js": "18906fa75c32bbe1e0174151aaa448f6"
 };
 
 // The application shell files that are downloaded before a service worker can
