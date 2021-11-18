@@ -3,25 +3,26 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "07336dd0b4ab3b1292f0750a49816c28",
-"/": "07336dd0b4ab3b1292f0750a49816c28",
-"manifest.json": "814e435d0e6f79d822b1aa775cabc9a2",
+  "manifest.json": "814e435d0e6f79d822b1aa775cabc9a2",
 "version.json": "8558f688ed394fe68338b30e6bd1e018",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "28b63ad49241c0744a3b03e2f7f158f9",
-"assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/AssetManifest.json": "37bc3706fdf63edefb64f29464ee926c",
-"assets/images/logo/github.svg": "1bb027109345a90a9eab1e929d8669c2",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"favicon.ico": "573214790568879e162bd84525901a6e",
+"main.dart.js": "c0107e4d61d7aad1dcd9473a19b82f10",
+"index.html": "650bf25f8dcc9f22448ff8b1126d5a17",
+"/": "650bf25f8dcc9f22448ff8b1126d5a17",
+"assets/images/background/android_screen_background.jpg": "6c4e2e050a9d426d334efbcb7d677a41",
+"assets/images/background/spring_screen_background.jpg": "c41e564af0a29607f6cf3beed8ccab2f",
+"assets/images/background/main_screen_background.jpg": "6d6517e17d38421a3ffb8d6127c5725e",
+"assets/images/background/flutter_screen_background.jpg": "e07300f386d545ac0d5a1cee52720971",
+"assets/images/ava.jpg": "5dd8462774d01f9c9b05b555e414b678",
 "assets/images/logo/telegram.svg": "49aafe51fa7aacf7edcd760e7913afa6",
 "assets/images/logo/gmail.svg": "9dbc79dab48422c821c75bbfc21165ec",
-"assets/images/background/main_screen_background.jpg": "6d6517e17d38421a3ffb8d6127c5725e",
-"assets/images/background/android_screen_background.jpg": "6c4e2e050a9d426d334efbcb7d677a41",
-"assets/images/background/flutter_screen_background.jpg": "e07300f386d545ac0d5a1cee52720971",
-"assets/images/background/spring_screen_background.jpg": "c41e564af0a29607f6cf3beed8ccab2f",
-"main.dart.js": "f42cb996bf5084e5c35c541b013ee8d9"
+"assets/images/logo/github.svg": "1bb027109345a90a9eab1e929d8669c2",
+"assets/NOTICES": "28b63ad49241c0744a3b03e2f7f158f9",
+"assets/AssetManifest.json": "f6bfffcfd343349aa62c953fc8f11826",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/FontManifest.json": "7b2a36307916a9721811788013e65289"
 };
 
 // The application shell files that are downloaded before a service worker can
