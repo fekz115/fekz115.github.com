@@ -3,26 +3,30 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "manifest.json": "814e435d0e6f79d822b1aa775cabc9a2",
-"version.json": "8558f688ed394fe68338b30e6bd1e018",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"favicon.ico": "573214790568879e162bd84525901a6e",
-"main.dart.js": "c0107e4d61d7aad1dcd9473a19b82f10",
-"index.html": "650bf25f8dcc9f22448ff8b1126d5a17",
-"/": "650bf25f8dcc9f22448ff8b1126d5a17",
-"assets/images/background/android_screen_background.jpg": "6c4e2e050a9d426d334efbcb7d677a41",
-"assets/images/background/spring_screen_background.jpg": "c41e564af0a29607f6cf3beed8ccab2f",
-"assets/images/background/main_screen_background.jpg": "6d6517e17d38421a3ffb8d6127c5725e",
-"assets/images/background/flutter_screen_background.jpg": "e07300f386d545ac0d5a1cee52720971",
+  "main.dart.js": "8f594b2ea6d503d64691e466575134dd",
+"index.html": "f6ec512f5f2be6887450b1337e47a884",
+"/": "f6ec512f5f2be6887450b1337e47a884",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/AssetManifest.json": "f6bfffcfd343349aa62c953fc8f11826",
+"assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/images/ava.jpg": "5dd8462774d01f9c9b05b555e414b678",
 "assets/images/logo/telegram.svg": "49aafe51fa7aacf7edcd760e7913afa6",
-"assets/images/logo/gmail.svg": "9dbc79dab48422c821c75bbfc21165ec",
 "assets/images/logo/github.svg": "1bb027109345a90a9eab1e929d8669c2",
-"assets/NOTICES": "28b63ad49241c0744a3b03e2f7f158f9",
-"assets/AssetManifest.json": "f6bfffcfd343349aa62c953fc8f11826",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/FontManifest.json": "7b2a36307916a9721811788013e65289"
+"assets/images/logo/gmail.svg": "9dbc79dab48422c821c75bbfc21165ec",
+"assets/images/background/spring_screen_background.jpg": "c41e564af0a29607f6cf3beed8ccab2f",
+"assets/images/background/flutter_screen_background.jpg": "e07300f386d545ac0d5a1cee52720971",
+"assets/images/background/android_screen_background.jpg": "6c4e2e050a9d426d334efbcb7d677a41",
+"assets/images/background/main_screen_background.jpg": "6d6517e17d38421a3ffb8d6127c5725e",
+"assets/NOTICES": "4f5d248906f02e1382a1d82660d81c10",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"manifest.json": "814e435d0e6f79d822b1aa775cabc9a2",
+"version.json": "8951164f4d9f3b671a1f313f3a74ad04",
+"favicon.ico": "573214790568879e162bd84525901a6e",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487"
 };
 
 // The application shell files that are downloaded before a service worker can
